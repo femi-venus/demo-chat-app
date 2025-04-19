@@ -1,0 +1,84 @@
+# Node modules
+frontend/node_modules/
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# macOS files
+frontend/.DS_Store
+
+# Logs
+frontend/*.log
+frontend/*.lock
+
+# Android
+frontend/android/.gradle/
+frontend/android/app/build/
+frontend/android/.idea/
+frontend/android/local.properties
+frontend/android/app/.cxx/
+frontend/*.iml
+
+# iOS
+frontend/ios/Pods/
+frontend/ios/Podfile.lock
+frontend/ios/DerivedData/
+frontend/ios/build/
+frontend/ios/*.xcodeproj/*
+frontend/!ios/*.xcodeproj/project.pbxproj
+frontend/!ios/*.xcodeproj/xcshareddata/
+frontend/ios/*.xcworkspace/
+frontend/xcuserdata/
+
+# Fastlane
+frontend/fastlane/report.xml
+frontend/fastlane/screenshots
+frontend/fastlane/test_output
+
+# Watchman
+frontend/.watchmanconfig
+
+# Buck
+frontend/.buckconfig
+frontend/.buckd/
+frontend/buck-out/
+
+# Expo
+frontend/.expo/
+frontend/.expo-shared/
+
+# Misc
+frontend/.env
+frontend/*.keystore
+frontend/*.jks
+
+# VSCode
+frontend/.vscode/
+
+# Metro
+frontend/*.hmap
+frontend/*.pch
+frontend/*.obj
+frontend/*.swp
+frontend/*.lock
+
+# Node.js
+backend/node_modules/
+backend/.env
+backend/dist/
+backend/build/
+
+# macOS
+.backend/DS_Store
+
+# Logs
+backend/logs/
+backend/*.log
+
+# Python
+backend/__pycache__/
+backend/*.pyc
+
+# VSCode settings
+backend/.vscode/
+
